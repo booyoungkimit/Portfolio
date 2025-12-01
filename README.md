@@ -20,7 +20,7 @@ This section highlights my practical experience in providing ICT support and tro
 The projects demonstrate my ability to maintain computer systems, resolve software and hardware problems, and communicate effectively with clients.
 
 
-#Completed Work
+##Completed Work**
 ### **1. Help Desk Ticket Resolution**
 
 **Objective:** Analyse and resolve client ICT issues via help desk workflow.
