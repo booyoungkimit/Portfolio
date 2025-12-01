@@ -3,6 +3,10 @@ IT Portfolio showcasing my hands-on projects in Networking, Windows Server, Clou
 
 # Portfolio Sections
 - [ICT Support & Help Desk](#ict-support--help-desk)
+
+
+
+  
 - Windows Server 2022
 - Team Collaboration
 - Networking (CCNA + Packet Tracer)
@@ -10,3 +14,9 @@ IT Portfolio showcasing my hands-on projects in Networking, Windows Server, Clou
 - Cloud
 - Linux
 - Python & Automation
+
+
+
+
+##[ICT Support & Help Desk]
+Hi I hope you are doing well.
