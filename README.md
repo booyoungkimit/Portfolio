@@ -21,6 +21,18 @@ The projects demonstrate my ability to maintain computer systems, resolve softwa
 
 
 #Completed Work
+### **1. Help Desk Ticket Resolution**
+
+**Objective:** Analyse and resolve client ICT issues via help desk workflow.
+
+**Tasks:** Responded to software crashes, managed urgent hardware failures, escalated cases, and documented all actions.
+
+**Skills:** Troubleshooting, ticket prioritisation, client communication, escalation management.
+
+**Outcome:** Successfully resolved both software and hardware incidents.
+
+**Attachment:**
+
 
 
 
