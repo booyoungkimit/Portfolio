@@ -16,7 +16,9 @@ IT Portfolio showcasing my hands-on projects in Networking, Windows Server, Clou
 ---
 
 ## ICT Support & Help Desk
-(내용 추가)
+This section highlights my practical experience in providing ICT support and troubleshooting issues during my IT training.
+The projects demonstrate my ability to maintain computer systems, resolve software and hardware problems, and communicate effectively with clients.
+
 
 ## Windows Server 2022
 (내용 추가)
