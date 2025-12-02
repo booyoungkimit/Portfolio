@@ -35,6 +35,23 @@ The projects demonstrate my ability to maintain computer systems, resolve softwa
 [Help Desk Ticket Resolution Report](Doc/Help_Desk_Ticket_Resolution_Report_Booyoung%20Kim.pdf)
 
 
+### **2. Hardware Maintenance**
+
+**Objective:** Perform full hardware maintenance on a desktop PC.
+
+**Tasks:** Cleaned, repaired, and tested internal components including GPU and RAM.
+
+**Skills:** Hardware diagnostics, preventive maintenance, environmental disposal.
+
+**Outcome:** System fully restored after repair.
+
+**Attachment:**
+
+[Hardware Maintenance Report](doc/Hardware_Maintenance Report_BooyoungKim.pdf)
+
+
+
+Hardware_Maintenance Report_BooyoungKim.pdf
 
 
 
