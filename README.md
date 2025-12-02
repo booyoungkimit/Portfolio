@@ -71,8 +71,9 @@ Joined Windows 10 client to domain & verified GPO application
 **Outcome:** Fully functioning Active Directory domain with tested authentication, policy enforcement, and delegated access.
 
 **Attachment:**
+[Windows Server_Active Directory](Doc/WindowsServer_Active_Directory_BooyoungKim.pdf)
 
-[Windows Server_Active Directory_Booyoung Kim.pdf](attachment:50d7e280-469e-48c8-a7b9-18ba6d3d7204:Windows_Server_Active_Directory_Booyoung_Kim.pdf)
+<br>
 
 ### 2. File Sharing (NTFS & Share Permissions)
 
@@ -86,7 +87,7 @@ Joined Windows 10 client to domain & verified GPO application
 
 **Attachment**:
 
-[Windows Server_File Sharing_Booyoung Kim.pdf](attachment:b33c2405-4e2d-40e8-8587-c58115837f6d:Windows_Server_File_Sharing_Booyoung_Kim.pdf)
+[Windows Server_File Sharing_Booyoung Kim.pdf](Doc/WindowsServer_File_Sharing_BooyoungKim.pdf)
 
 <br>
 
