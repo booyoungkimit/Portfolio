@@ -38,22 +38,23 @@ The projects demonstrate my ability to maintain computer systems, resolve softwa
 
 
 ## Windows Server 2022
-(내용 추가)
+-In Progress-
 
 ## Team Collaboration
-(내용 추가)
+-In Progress-
 
 ## Networking (CCNA + Packet Tracer)
-(내용 추가)
+-In Progress-
 
 ## Cyber Security
-(내용 추가)
+-In Progress-
 
 ## Cloud
-(내용 추가)
+-In Progress-
 
 ## Linux
-(내용 추가)
+-In Progress-
+
 
 ## Python & Automation
 (내용 추가)
