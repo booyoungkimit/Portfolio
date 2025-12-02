@@ -90,7 +90,7 @@ Joined Windows 10 client to domain & verified GPO application
 
 <br>
 
-# In Progress
+## **In Progress**
 
 <br>
 
