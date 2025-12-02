@@ -34,9 +34,7 @@ The projects demonstrate my ability to maintain computer systems, resolve softwa
 **Attachment:**
 [Help Desk Ticket Resolution Report](Doc/Help_Desk_Ticket_Resolution_Report_Booyoung%20Kim.pdf)  
 
-
-
-
+<br>
 
 ### **2. Hardware Maintenance**
 
