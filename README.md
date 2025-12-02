@@ -86,8 +86,7 @@ Joined Windows 10 client to domain & verified GPO application
 **Outcome**: Secure, role-based file access using Active Directory groups and explicit ACLs, aligned with enterprise security standards.
 
 **Attachment**:
-
-[Windows Server_File Sharing_Booyoung Kim.pdf](Doc/WindowsServer_File_Sharing_BooyoungKim.pdf)
+[Windows Server_File Sharing](Doc/WindowsServer_File_Sharing_BooyoungKim.pdf)
 
 <br>
 
