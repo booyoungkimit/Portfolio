@@ -104,7 +104,40 @@ Joined Windows 10 client to domain & verified GPO application
 
 
 ## Team Collaboration
--In Progress-
+I have actively collaborated on multiple TAFE networking and team projects using Microsoft Teams, OneDrive. My responsibilities included organising meetings, sharing project files, coordinating group tasks, and ensuring milestones were completed on time.
+
+## **Completed Work**
+
+**Objective:** Work collaboratively within a team environment to plan, communicate, and deliver multi-stage IT projects using effective tools and structured workflows.
+
+**Tasks**: 
+
+- Organised team meetings, managed communication channels, and shared project files via Microsoft Teams and OneDrive.
+- Coordinated group tasks across four milestones, ensuring deadlines were met.
+- Proposed clear PPT section division to balance workload and improve clarity.
+- Suggested and implemented individual recording workflow for final presentation to avoid delays and match availability.
+- Gathered PPT files and recordings, compiled the final presentation, and uploaded final deliverables for submission.
+- Maintained positive communication, provided technical support, and ensured accountability across all members.
+
+**Skills**
+
+- Team coordination & communication
+- Microsoft Teams collaboration
+- Timeline management
+- Problem-solving & decision-making
+- Documentation & presentation structuring
+- Practical leadership in team environments
+
+**Outcome**
+
+Successfully delivered a multi-stage project with structured communication, improved workflow, and efficient final presentation deliverables. Demonstrated strong organisational skills and the ability to guide teammates without conflict.
+
+**Attachment**:
+
+
+
+
+
 
 ## Networking (CCNA + Packet Tracer)
 -In Progress-
