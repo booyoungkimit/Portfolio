@@ -32,7 +32,7 @@ The projects demonstrate my ability to maintain computer systems, resolve softwa
 **Outcome:** Successfully resolved both software and hardware incidents.
 
 **Attachment:**
-[Help Desk Ticket Resolution Report](Doc/Help_Desk_Ticket_Resolution_Report_Booyoung%20Kim.pdf)
+[Help Desk Ticket Resolution Report](Doc/Help_Desk_Ticket_Resolution_Report_Booyoung%20Kim.pdf)  
 
 
 ### **2. Hardware Maintenance**
@@ -46,12 +46,7 @@ The projects demonstrate my ability to maintain computer systems, resolve softwa
 **Outcome:** System fully restored after repair.
 
 **Attachment:**
-[Hardware Maintenance Report](Doc/Hardware_Maintenance%20Report_BooyoungKim.pdf)
-
-
-
-
-
+[Hardware Maintenance Report](Doc/Hardware_Maintenance%20Report_BooyoungKim.pdf)  
 
 
 ## Windows Server 2022
