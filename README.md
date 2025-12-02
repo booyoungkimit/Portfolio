@@ -47,7 +47,7 @@ The projects demonstrate my ability to maintain computer systems, resolve softwa
 
 **Attachment:**
 
-[Hardware Maintenance Report](doc/Hardware_Maintenance Report_BooyoungKim.pdf)
+[Hardware Maintenance Report](Doc/Hardware_Maintenance%20Report_BooyoungKim.pdf)
 
 
 
