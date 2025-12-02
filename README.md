@@ -57,4 +57,5 @@ The projects demonstrate my ability to maintain computer systems, resolve softwa
 
 
 ## Python & Automation
-(내용 추가)
+-In Progress-
+
