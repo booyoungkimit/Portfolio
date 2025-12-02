@@ -88,6 +88,8 @@ Joined Windows 10 client to domain & verified GPO application
 
 [Windows Server_File Sharing_Booyoung Kim.pdf](attachment:b33c2405-4e2d-40e8-8587-c58115837f6d:Windows_Server_File_Sharing_Booyoung_Kim.pdf)
 
+<br>
+
 # In Progress
 
 <br>
@@ -99,7 +101,7 @@ Joined Windows 10 client to domain & verified GPO application
 ### 7. Monitoring
 ### 8. PowerShell Automation
 
-
+<br>
 
 
 ## Team Collaboration
