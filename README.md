@@ -32,6 +32,7 @@ The projects demonstrate my ability to maintain computer systems, resolve softwa
 **Outcome:** Successfully resolved both software and hardware incidents.
 
 **Attachment:**
+[Download PDF](Docs/WindowsServer_AD_BooyoungKim.pdf)
 
 
 
