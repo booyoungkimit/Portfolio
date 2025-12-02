@@ -32,9 +32,7 @@ The projects demonstrate my ability to maintain computer systems, resolve softwa
 **Outcome:** Successfully resolved both software and hardware incidents.
 
 **Attachment:**
-[Help Desk Ticket Resolution Report_Booyoung Kim](Docs/Help Desk Ticket Resolution Report_Booyoung Kim)
-
-
+[Help_Desk_Ticket_Resolution_Report_Booyoung Kim.pdf](Docs/Help_Desk_Ticket_Resolution_Report_Booyoung Kim.pdf)
 
 
 
