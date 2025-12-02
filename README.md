@@ -52,7 +52,44 @@ The projects demonstrate my ability to maintain computer systems, resolve softwa
 <br>
 
 ## Windows Server 2022
--In Progress-
+This section showcases my hands-on work deploying and managing Windows Server 2022 in a simulated enterprise environment as part of my networking coursework.
+
+
+## **Completed Work**
+### **1. Active Directory Management**
+
+**Objective**: Deploy and manage a Windows Server Active Directory environment with domain services, organisational structure, and Group Policy.
+
+**Tasks**: Installed AD DS and DNS, Created OUs, Created users & groups, applied membership, 
+
+Applied Group Policy (desktop restrictions, identity policies)
+
+Joined Windows 10 client to domain & verified GPO application
+
+**Skills**: AD DS, IAM, GPO, OU design, user/group administration, domain join testing
+
+**Outcome:** Fully functioning Active Directory domain with tested authentication, policy enforcement, and delegated access.
+
+**Attachment:**
+
+[Windows Server_Active Directory_Booyoung Kim.pdf](attachment:50d7e280-469e-48c8-a7b9-18ba6d3d7204:Windows_Server_Active_Directory_Booyoung_Kim.pdf)
+
+### 2. File Sharing (NTFS & Share Permissions)
+
+**Objective**: Configure secure shared folders using Share + NTFS permissions in a Windows Server 2022 domain environment following AGDLP best practices.
+
+**Tasks**: Configured shared folders & permissions, Implemented AGDLP-based group structure, Applied NTFS & Share permissions using least-privilege, Validated access using domain users
+
+**Skills**: Share & NTFS permissions, AGDLP group design, ACL & inheritance management, drive mapping, security auditing, access validation
+
+**Outcome**: Secure, role-based file access using Active Directory groups and explicit ACLs, aligned with enterprise security standards.
+
+**Attachment**:
+
+[Windows Server_File Sharing_Booyoung Kim.pdf](attachment:b33c2405-4e2d-40e8-8587-c58115837f6d:Windows_Server_File_Sharing_Booyoung_Kim.pdf)
+
+
+
 
 ## Team Collaboration
 -In Progress-
