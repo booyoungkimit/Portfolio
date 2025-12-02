@@ -20,7 +20,7 @@ This section highlights my practical experience in providing ICT support and tro
 The projects demonstrate my ability to maintain computer systems, resolve software and hardware problems, and communicate effectively with clients.
 
 
-### **Completed Work**
+### **-Completed Work-**
 ### **1. Help Desk Ticket Resolution**
 
 **Objective:** Analyse and resolve client ICT issues via help desk workflow.
@@ -55,7 +55,7 @@ The projects demonstrate my ability to maintain computer systems, resolve softwa
 This section showcases my hands-on work deploying and managing Windows Server 2022 in a simulated enterprise environment as part of my networking coursework.
 
 
-### **Completed Work**
+### **-Completed Work-**
 ### **1. Active Directory Management**
 
 **Objective**: Deploy and manage a Windows Server Active Directory environment with domain services, organisational structure, and Group Policy.
@@ -90,7 +90,7 @@ Joined Windows 10 client to domain & verified GPO application
 
 <br>
 
-## **In Progress**
+### **-In Progress-**
 <br>
 
 ### 3. Print
@@ -106,7 +106,7 @@ Joined Windows 10 client to domain & verified GPO application
 ## Team Collaboration
 I have actively collaborated on multiple TAFE networking and team projects using Microsoft Teams, OneDrive. My responsibilities included organising meetings, sharing project files, coordinating group tasks, and ensuring milestones were completed on time.
 
-### **Completed Work**
+### **-Completed Work-**
 
 **Objective:** Work collaboratively within a team environment to plan, communicate, and deliver multi-stage IT projects using effective tools and structured workflows.
 
