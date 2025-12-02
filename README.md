@@ -91,9 +91,7 @@ Joined Windows 10 client to domain & verified GPO application
 <br>
 
 ## **In Progress**
-
 <br>
-
 ### 3. Print
 ### 4. RAID & Storage
 ### 5. Backup & DR
