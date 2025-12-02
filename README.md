@@ -35,6 +35,9 @@ The projects demonstrate my ability to maintain computer systems, resolve softwa
 [Help Desk Ticket Resolution Report](Doc/Help_Desk_Ticket_Resolution_Report_Booyoung%20Kim.pdf)  
 
 
+
+
+
 ### **2. Hardware Maintenance**
 
 **Objective:** Perform full hardware maintenance on a desktop PC.
