@@ -133,8 +133,9 @@ I have actively collaborated on multiple TAFE networking and team projects using
 Successfully delivered a multi-stage project with structured communication, improved workflow, and efficient final presentation deliverables. Demonstrated strong organisational skills and the ability to guide teammates without conflict.
 
 **Attachment**:
+[Team_Collaboration](Doc/Team_Collaboration_BooyougKim.pdf)  
 
-
+<br>
 
 
 
