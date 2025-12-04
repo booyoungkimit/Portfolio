@@ -28,7 +28,7 @@ Validation ID: 8e56349cd3634237bec71b47fa33db58
     
     **Attachment:**
     
-    [AWS Certified Solutions Architect - Associate certificate_Booyoung Kim.pdf](attachment:d38198fa-e0d2-4a51-b7ad-1ec56dc29b6d:AWS_Certified_Solutions_Architect_-_Associate_certificate_Booyoung_Kim.pdf)
+    [AWS Certified Solutions Architect - Associate certificate_Booyoung Kim.pdf](123)
     
 - **AWS Certified Cloud Practitioner (CCP)**
 Issued: Jul 2025 • Expires: Aug 2028
@@ -36,7 +36,7 @@ Verify: https://aws.amazon.com/verification
 Validation ID: ac151fcf779c439a80a875180f99ea5e
 **Attachment:**
     
-    [AWS Certified Cloud Practitioner certificate_Booyoung Kim.pdf](attachment:990c8258-3dd9-4cd3-aaea-f9e71ef0941e:AWS_Certified_Cloud_Practitioner_certificate_Booyoung_Kim.pdf)
+    [AWS Certified Cloud Practitioner certificate_Booyoung Kim.pdf](123)
     
 - **Microsoft Certified: Azure Fundamentals (AZ-900)**
 Issued: 23 Oct 2025
