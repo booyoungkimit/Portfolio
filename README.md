@@ -165,7 +165,9 @@ Joined Windows 10 client to domain & verified GPO application
 ### 8. PowerShell Automation
 
 <br>
+<br>
 
+---
 
 ## Team Collaboration
 I have actively collaborated on multiple TAFE networking and team projects using Microsoft Teams, OneDrive. My responsibilities included organising meetings, sharing project files, coordinating group tasks, and ensuring milestones were completed on time.
@@ -201,6 +203,7 @@ Successfully delivered a multi-stage project with structured communication, impr
 
 <br>
 <br>
+
 ---
 
 
@@ -208,15 +211,34 @@ Successfully delivered a multi-stage project with structured communication, impr
 ## Networking (CCNA + Packet Tracer)
 -In Progress-
 
+<br>
+<br>
+
+---
+
 ## Cyber Security
 -In Progress-
+
+<br>
+<br>
+
+---
 
 ## Cloud
 -In Progress-
 
+<br>
+<br>
+
+---
+
 ## Linux
 -In Progress-
 
+<br>
+<br>
+
+---
 
 ## Python & Automation
 -In Progress-
