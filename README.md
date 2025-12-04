@@ -26,10 +26,9 @@ Issued: Aug 2025 • Expires: Aug 2028
 Verify: https://aws.amazon.com/verification
 
 Validation ID: 8e56349cd3634237bec71b47fa33db58
-    
-    **Attachment:**
-    
-    [AWS Certified Solutions Architect - Associate certificate_Booyoung Kim.pdf](123)
+**Attachment**:
+
+[AWS Certified Solutions Architect - Associate certificate_Booyoung Kim.pdf](123)
     
 ### **AWS Certified Cloud Practitioner (CCP)**
 Issued: Jul 2025 • Expires: Aug 2028
@@ -42,21 +41,20 @@ Validation ID: ac151fcf779c439a80a875180f99ea5e
 ### **Microsoft Certified: Azure Fundamentals (AZ-900)**
 Issued: 23 Oct 2025
     
-    Verify: [https://verify.certiport.com](https://verify.certiport.com/)  
-    Verify ID: F9Aq-XMSn
-    **Attachment:**
-    
-    [AZ-900_Booyoung Kim.pdf](attachment:f3eb9e43-92f2-4faa-825c-a833ae5006a4:AZ-900_Booyoung_Kim.pdf)
+Verify: [https://verify.certiport.com](https://verify.certiport.com/)  
+Verify ID: F9Aq-XMSn
+**Attachment**:
+ 
+[AZ-900_Booyoung Kim.pdf](attachment:f3eb9e43-92f2-4faa-825c-a833ae5006a4:AZ-900_Booyoung_Kim.pdf)
     
 
 ### **Microsoft 365 Fundamentals**
 Issued: 15 Sep 2025
-    
-    Verify: [https://verify.certiport.com](https://verify.certiport.com/)  
-    Verify ID: wMoPQ-H9d7 
-    
-    **Attachment:**
 
+Verify: [https://verify.certiport.com](https://verify.certiport.com/)  
+Verify ID: wMoPQ-H9d7 
+**Attachment**:
+[AZ-900_Booyoung Kim.pdf](attachment:f3eb9e43-92f2-4faa-825c-a833ae5006a4:AZ-900_Booyoung_Kim.pdf)
 
 
 ## ICT Support & Help Desk
