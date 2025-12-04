@@ -27,6 +27,7 @@ Verify: https://aws.amazon.com/verification
 <br>
 Validation ID: 8e56349cd3634237bec71b47fa33db58 
 <br>
+
 **Attachment:**
 <br>
 [AWS Certified Solutions Architect - Associate certificate_Booyoung Kim.pdf](123)
@@ -41,8 +42,8 @@ Verify: https://aws.amazon.com/verification
 <br>
 Validation ID: ac151fcf779c439a80a875180f99ea5e 
 <br>
-**Attachment:** 
-<br>
+
+**Attachment:**
 [AWS Certified Cloud Practitioner certificate_Booyoung Kim.pdf](123)
 
 <br>
@@ -55,6 +56,7 @@ Verify: [https://verify.certiport.com](https://verify.certiport.com/)
 <br>
 Verify ID: F9Aq-XMSn 
 <br>
+
 **Attachment:**
 [AZ-900_Booyoung Kim.pdf](attachment:f3eb9e43-92f2-4faa-825c-a833ae5006a4:AZ-900_Booyoung_Kim.pdf) 
 
@@ -68,7 +70,8 @@ Verify: [https://verify.certiport.com](https://verify.certiport.com/)
 <br>
 Verify ID: wMoPQ-H9d7 
 <br>
-**Attachment:** 
+
+**Attachment:**
 [AZ-900_Booyoung Kim.pdf](attachment:f3eb9e43-92f2-4faa-825c-a833ae5006a4:AZ-900_Booyoung_Kim.pdf)
 
 <br>
