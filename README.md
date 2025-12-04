@@ -33,7 +33,6 @@ Validation ID: 8e56349cd3634237bec71b47fa33db58
 <br>
 
 ### **AWS Certified Cloud Practitioner (CCP)** 
-<br>
 Issued: Jul 2025 • Expires: Aug 2028 
 <br>
 Verify: https://aws.amazon.com/verification 
@@ -47,7 +46,6 @@ Validation ID: ac151fcf779c439a80a875180f99ea5e
 <br>
 
 ### **Microsoft Certified: Azure Fundamentals (AZ-900)** 
-<br>
 Issued: 23 Oct 2025 
 <br>
 Verify: [https://verify.certiport.com](https://verify.certiport.com/)  
@@ -61,7 +59,6 @@ Verify ID: F9Aq-XMSn
 <br>
 
 ### **Microsoft 365 Fundamentals** 
-<br>
 Issued: 15 Sep 2025 
 <br>
 Verify: [https://verify.certiport.com](https://verify.certiport.com/)  
