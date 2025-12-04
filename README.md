@@ -13,6 +13,9 @@ IT Portfolio showcasing my hands-on projects in Networking, Windows Server, Clou
 - [Linux](#linux)
 - [Python & Automation](#python--automation)
 
+<br>
+<br>
+
 
 ---
 
@@ -65,10 +68,11 @@ Validation ID: wMoPQ-H9d7
 <br>
 
 **Attachment:**
-[AZ-900_Booyoung Kim.pdf](attachment:f3eb9e43-92f2-4faa-825c-a833ae5006a4:AZ-900_Booyoung_Kim.pdf)
+[AZ-900_Booyoung Kim.pdf](Doc/MS365_BK.pdf)
 
 <br>
-
+<br>
+---
 ## ICT Support & Help Desk
 This section highlights my practical experience in providing ICT support and troubleshooting issues during my IT training.
 The projects demonstrate my ability to maintain computer systems, resolve software and hardware problems, and communicate effectively with clients.
@@ -103,7 +107,11 @@ The projects demonstrate my ability to maintain computer systems, resolve softwa
 **Attachment:**
 [Hardware Maintenance Report](Doc/Hardware_Maintenance%20Report_BooyoungKim.pdf)  
 
+
 <br>
+<br>
+
+---
 
 ## Windows Server 2022
 This section showcases my hands-on work deploying and managing Windows Server 2022 in a simulated enterprise environment as part of my networking coursework.
@@ -190,7 +198,8 @@ Successfully delivered a multi-stage project with structured communication, impr
 [Team_Collaboration](Doc/Team_Collaboration_BooyougKim.pdf)  
 
 <br>
-
+<br>
+---
 
 
 
