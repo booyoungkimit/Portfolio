@@ -19,7 +19,7 @@ IT Portfolio showcasing my hands-on projects in Networking, Windows Server, Clou
 ## Certifications
 Below are my cloud and IT certifications.
 
-- **AWS Certified Solutions Architect – Associate (SAA)**
+- **AWS Certified Solutions Architect – Associate (SAA)** 
 Issued: Aug 2025 • Expires: Aug 2028
 
 Verify: https://aws.amazon.com/verification
