@@ -28,7 +28,7 @@ Validation ID: 8e56349cd3634237bec71b47fa33db58
 <br>
 
 **Attachment:**
-[AWS Certified Solutions Architect - Associate certificate_Booyoung Kim.pdf](Doc/AWS Certified Solutions Architect - Associate certificate_Booyoung Kim.pdf)
+[AWS Certified Solutions Architect - Associate certificate_Booyoung Kim.pdf](Doc/AWS_Certified_Solutions_Architect_BK.pdf)
 
 <br>
 
