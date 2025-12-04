@@ -20,11 +20,8 @@ IT Portfolio showcasing my hands-on projects in Networking, Windows Server, Clou
 Below are my cloud and IT certifications.
 
 ### **AWS Certified Solutions Architect – Associate (SAA)**
-  
 Issued: Aug 2025 • Expires: Aug 2028
-
 Verify: https://aws.amazon.com/verification
-
 Validation ID: 8e56349cd3634237bec71b47fa33db58
 **Attachment**:
 
@@ -34,9 +31,9 @@ Validation ID: 8e56349cd3634237bec71b47fa33db58
 Issued: Jul 2025 • Expires: Aug 2028
 Verify: https://aws.amazon.com/verification
 Validation ID: ac151fcf779c439a80a875180f99ea5e
+
 **Attachment:**
-    
-    [AWS Certified Cloud Practitioner certificate_Booyoung Kim.pdf](123)
+[AWS Certified Cloud Practitioner certificate_Booyoung Kim.pdf](123)
     
 ### **Microsoft Certified: Azure Fundamentals (AZ-900)**
 Issued: 23 Oct 2025
