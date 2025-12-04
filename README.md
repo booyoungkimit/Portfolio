@@ -3,6 +3,7 @@ IT Portfolio showcasing my hands-on projects in Networking, Windows Server, Clou
 
 ---
 ## **Portfolio Sections**
+- [Certifications](#certifications)
 - [ICT Support & Help Desk](#ict-support--help-desk)
 - [Windows Server 2022](#windows-server-2022)
 - [Team Collaboration](#team-collaboration)
