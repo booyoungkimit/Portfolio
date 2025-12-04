@@ -41,7 +41,7 @@ Validation ID: ac151fcf779c439a80a875180f99ea5e
 <br>
 
 **Attachment:**
-[AWS Certified Cloud Practitioner certificate_Booyoung Kim.pdf](AWS_Certified_Cloud_Practitioner_certificate_BK.pdf)
+[AWS Certified Cloud Practitioner certificate_Booyoung Kim.pdf](Doc/AWS_Certified_Cloud_Practitioner_certificate_BK.pdf)
 
 <br>
 
