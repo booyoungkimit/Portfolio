@@ -21,7 +21,9 @@ Below are my cloud and IT certifications.
 
 - **AWS Certified Solutions Architect – Associate (SAA)**
 Issued: Aug 2025 • Expires: Aug 2028
+
 Verify: https://aws.amazon.com/verification
+
 Validation ID: 8e56349cd3634237bec71b47fa33db58
     
     **Attachment:**
