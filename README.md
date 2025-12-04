@@ -19,7 +19,7 @@ IT Portfolio showcasing my hands-on projects in Networking, Windows Server, Clou
 ## Certifications
 Below are my cloud and IT certifications.
 
-### **AWS Certified Solutions Architect – Associate (SAA)** 
+### **-AWS Certified Solutions Architect – Associate (SAA)** 
 Issued: Aug 2025 • Expires: Aug 2028 
 <br>
 Verify: https://aws.amazon.com/verification 
@@ -32,7 +32,7 @@ Validation ID: 8e56349cd3634237bec71b47fa33db58
 
 <br>
 
-### **AWS Certified Cloud Practitioner (CCP)** 
+### **-AWS Certified Cloud Practitioner (CCP)** 
 Issued: Jul 2025 • Expires: Aug 2028 
 <br>
 Verify: https://aws.amazon.com/verification 
@@ -45,7 +45,7 @@ Validation ID: ac151fcf779c439a80a875180f99ea5e
 
 <br>
 
-### **Microsoft Certified: Azure Fundamentals (AZ-900)** 
+### **-Microsoft Certified: Azure Fundamentals (AZ-900)** 
 Issued: 23 Oct 2025 
 <br>
 Verify: [https://verify.certiport.com](https://verify.certiport.com/)  
@@ -57,7 +57,7 @@ Validation ID: F9Aq-XMSn
 
 <br>
 
-### **Microsoft 365 Fundamentals** 
+### **-Microsoft 365 Fundamentals** 
 Issued: 15 Sep 2025 
 <br>
 Verify: [https://verify.certiport.com](https://verify.certiport.com/)  
