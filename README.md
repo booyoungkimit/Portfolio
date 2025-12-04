@@ -14,8 +14,6 @@ IT Portfolio showcasing my hands-on projects in Networking, Windows Server, Clou
 - [Python & Automation](#python--automation)
 
 <br>
-<br>
-
 
 ---
 
