@@ -72,7 +72,9 @@ Validation ID: wMoPQ-H9d7
 
 <br>
 <br>
+
 ---
+
 ## ICT Support & Help Desk
 This section highlights my practical experience in providing ICT support and troubleshooting issues during my IT training.
 The projects demonstrate my ability to maintain computer systems, resolve software and hardware problems, and communicate effectively with clients.
