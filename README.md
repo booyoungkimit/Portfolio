@@ -29,7 +29,9 @@ Verification: Available upon request
 <br>
 
 **Attachment:**
-[Certificate IV in Information Technology Networking_BK.pdf](Doc/Certificate_IV_Information Technology_Networking_BK.pdf)
+[Certificate IV in Information Technology Networking BK.pdf](Doc/Certificate_IV_Information Technology_Networking_BK.pdf)
+
+<br>
 
 
 ### **-AWS Certified Solutions Architect – Associate (SAA)** 
@@ -43,7 +45,6 @@ Validation ID: 8e56349cd3634237bec71b47fa33db58
 **Attachment:**
 [AWS Certified Solutions Architect - Associate certificate_Booyoung Kim.pdf](Doc/AWS_Certified_Solutions_Architect_BK.pdf)
 
-<br>
 
 ### **-AWS Certified Cloud Practitioner (CCP)** 
 Issued: Jul 2025 • Expires: Aug 2028 
