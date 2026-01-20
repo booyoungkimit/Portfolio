@@ -20,6 +20,19 @@ IT Portfolio showcasing my hands-on projects in Networking, Windows Server, Clou
 ## Certifications
 Below are my cloud and IT certifications.
 
+### **-Certificate IV in Information Technology (Networking)** 
+Issued: Dec 2025
+<br>
+Institution: North Metropolitan TAFE (Western Australia)
+<br>
+Verification: Available upon request
+<br>
+
+**Attachment:**
+[Certificate IV in Information Technology (Networking).pdf](Doc/Certificate IV in Information Technology (Networking).pdf)
+
+
+
 ### **-AWS Certified Solutions Architect – Associate (SAA)** 
 Issued: Aug 2025 • Expires: Aug 2028 
 <br>
