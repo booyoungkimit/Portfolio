@@ -29,7 +29,7 @@ Verification: Available upon request
 <br>
 
 **Attachment:**
-[Certificate IV in Information Technology Networking_BK.pdf](Doc/Certificate IV in Information Technology Networking_BK.pdf)
+[Certificate IV in Information Technology Networking_BK.pdf](Doc/Certificate_IV_Information Technology_Networking_BK.pdf)
 
 
 
