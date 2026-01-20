@@ -32,7 +32,6 @@ Verification: Available upon request
 [Certificate IV in Information Technology Networking_BK.pdf](Doc/Certificate_IV_Information Technology_Networking_BK.pdf)
 
 
-
 ### **-AWS Certified Solutions Architect – Associate (SAA)** 
 Issued: Aug 2025 • Expires: Aug 2028 
 <br>
